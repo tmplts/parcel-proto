@@ -1,0 +1,15 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "www/.parcel-cache": true,
+        "www/.*": true,
+        "www/src/env.d.ts": true,
+        "www/node_modules": true,
+        "www/package-lock.json": true
+    }
+}
