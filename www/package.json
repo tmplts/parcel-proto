@@ -4,7 +4,7 @@
   "description": "",
   "source": "src/index.html",
   "scripts": {
-    "dev": "parcel serve"
+    "dev": "parcel serve --open"
   },
   "devDependencies": {
     "parcel": "^2.8.2",
