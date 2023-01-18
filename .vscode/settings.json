@@ -9,7 +9,6 @@
         "www/.parcel-cache": true,
         "www/.*": true,
         "www/src/env.d.ts": true,
-        "www/node_modules": true,
-        "www/package-lock.json": true
+        "www/node_modules": true
     }
 }
